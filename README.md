@@ -25,6 +25,10 @@ Overall, the Computer Science program and the capstone experience have prepared 
 
 
 ## Code Review Video
+
+https://youtu.be/r_uqmAmkn2w
+
+
 ## Software Design and Engineering Enhancement
 ## Algorithms and Data Structures Enhancement
 ## Database Enhancement
