@@ -25,6 +25,11 @@ Overall, the Computer Science program and the capstone experience have prepared 
 
 
 ## Code Review Video
+A code review is a process in which developers examine code to make sure that it meets a certain standard, functions well, and is readable. After looking at the resources, I learned that code reviews are an important tool to developers because it allows them to look at code after completing it and pointing out any errors or issues. Through my own experience, looking at code again multiple times helps when finding bugs or reasons why the code may not work. Code reviews are important to practice for computer science professionals because it helps them identify good code and bad code. When computer science professionals look and review code, each time they can point out what’s wrong with it or what makes It a good code. Remembering these patterns will help them in the future when they review code again. One best practice is review small, focused changes. This means that keeping the changes small so reviewers can understand the intent and catch the bugs. A second best practice is use a checklist and standards. A third best practice is test and run the code and watch its behavior. A code review should happen during the development rather than once its completed. For this code review I am using ScreenPal to record my review. ScreenPal allows me to walk through my code and explain my thought process. To prepare I will create an outline or script based on the rubric so I meet all the criteria. 
+
+Below is a link to my code review on YouTube
+
+
 
 https://youtu.be/r_uqmAmkn2w
 
