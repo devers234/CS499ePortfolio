@@ -36,7 +36,7 @@ https://youtu.be/r_uqmAmkn2w
 
 ## Software Design and Engineering Enhancement
 
-The artifact I selected for this milestone is an Android-based inventory app from the course CS360: Mobile Architecture and Design. This application allows users to create and manage their inventory of collectible cards like Magic the Gathering cards. Users can add items, remove items, specify quantities using a local SQLite database. The original version of the application supported basic inventory functionality like item names and quantities. This artifact was selected because it provides a strong foundation in software design and engineering principles like object-oriented design, database integration, input validation and user interface improvements. 
+The artifact I selected for this milestone is an Android-based inventory app from the course CS360: Mobile Architecture and Design. This application allows users to create and manage their inventory of collectible cards like Magic: The Gathering cards. Users can add items, remove items, and specify quantities using a local SQLite database. The original version of the application supported basic inventory functionality like item names and quantities. This artifact was selected because it provides a strong foundation in software design and engineering principles like object-oriented design, database integration, input validation and user interface improvements. 
 	This artifact was selected because it had good base code that I knew I could improve and enhance. The original version lacked depth in terms of input validation and data richness. This first enhancement focused on expanding the application’s data model and improving the overall software design. These improvements were made, 
 •	Added two new attribute (condition and willingToTrade) to the item model
 •	Updated the database schema to support new attributes
@@ -44,15 +44,15 @@ The artifact I selected for this milestone is an Android-based inventory app fro
 •	Enhanced the user interface by adding toggle and dropdown controls
 •	Refactored the code to improve maintenance and readability
 
-The enhancements made to this artifact demonstrates progress towards multiple Computer Science program outcomes. One is Algorithms and data structure. The updated design reflects improved object-oriented structure through the expanse of the Item model and the addition of two new methods. Refactoring the database logic and UI demonstrates effective separation of concerns and clean architecture. This project required me to identify weak areas in my code and then improving them. Things like data validation, consistency, and scalability were all areas I wanted to improve. I used SQLite schema, input validation, Modular java classes and improved UX/UI to enhance the application. 
-	Enhancing this artifact reinforced the importance of planning in software development. The original application functioned fine and was efficient. Enhancing it not only helps the user but the developers as well. One major challenge I encountered was fixing all the issues. When adding in methods or changing things, I had to go to different code and fix them there as well. This took a while to make sure the syntax was right. One spelling mistake cost me at least 30 minutes of troubleshooting. Through this process I learned that when changing code, it affects the whole application, not just one part. Overall, this enhancement taught me how to code review, improve code and implement features that align with software development standards. 
+The enhancements made to this artifact demonstrate progress towards multiple Computer Science program outcomes. One is Algorithms and data structure. The updated design reflects improved object-oriented structure through the expanse of the Item model and the addition of two new methods. Refactoring the database logic and UI demonstrates effective separation of concerns and clean architecture. This project required me to identify weak areas in my code and then improve them. Things like data validation, consistency, and scalability were all areas I wanted to improve. I used SQLite schema, input validation, Modular java classes and improved UX/UI to enhance the application. 
+	Enhancing this artifact reinforced the importance of planning in software development. The original application functioned fine and was efficient. Enhancing it not only helps the user but the developers as well. One major challenge I encountered was fixing all the issues. When adding in methods or changing things, I had to go to different code and fix them there as well. This took a while to make sure the syntax was right. One spelling mistake cost me at least 30 minutes of troubleshooting. Through this process, I learned that when changing code, it affects the whole application, not just one part. Overall, this enhancement taught me how to code review, improve code and implement features that align with software development standards. 
 
 Below are links to my source code and reflection.
 
 
 https://github.com/devers234/CS499ePortfolio/blob/main/Daniel%20Evers%20milestone%202%20reflection.docx
 
-https://github.com/devers234/CS499ePortfolio/blob/main/Daniel%20Evers%20Inventory%20app%20with%20enhancments%20software%20design.zip
+https://github.com/devers234/CS499ePortfolio/tree/main/Daniel%20Evers%20Inventory%20app%20with%20enhancments/DanielEversInventoryapp2
 
 
 ## Algorithms and Data Structures Enhancement
