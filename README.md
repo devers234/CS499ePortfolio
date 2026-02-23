@@ -23,3 +23,9 @@ The artifact included in my ePortfolio collectively demonstrates this integrated
 	
 Overall, the Computer Science program and the capstone experience have prepared me to transition confidently into the professional computing field. My ePortfolio reflects not only what I have built, but how I think, communicate, and continuously improve as a computer scientist. I am well-positioned to contribute value in a professional environment that requires technical competence, collaboration, adaptability, and a strong commitment to quality and security.
 
+
+## Code Review Video
+## Software Design and Engineering Enhancement
+## Algorithms and Data Structures Enhancement
+## Database Enhancement
+## Artifacts and Source Code
