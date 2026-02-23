@@ -30,6 +30,10 @@ https://youtu.be/r_uqmAmkn2w
 
 
 ## Software Design and Engineering Enhancement
+
+https://github.com/devers234/CS499ePortfolio/blob/main/Daniel%20Evers%20milestone%202%20reflection.docx
+
+
 ## Algorithms and Data Structures Enhancement
 ## Database Enhancement
 ## Artifacts and Source Code
