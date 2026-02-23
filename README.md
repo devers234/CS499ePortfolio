@@ -66,6 +66,7 @@ Sorting using ORDER BY ensures that the inventory is always alphabetized, meanin
 	These enhancements demonstrate multiple computer science program outcomes. Through the implementation of my enhancements, I strengthened my ability to design and evaluate computing solutions that solve a given problem using algorithm principles. The database-level sorting combined with an in-memory HashMap for searching required evaluating performance, scalability, and memory usage to determine the most effective approach. This work also reflects progress towards using well-founded and innovative technique skills and tools in computing practices to implement computer solutions that deliver value and accomplish industry goals. Enhancing the application’s data model, validation logic, and internal data structures improves the maintainability of the project. A third outcome this enhancement meets is the process of documenting design decisions, implementing structured enhancements, and preparing the artifact for ePortfolio. This enhancement did not focus on collaborative development but it supports the progress by building on my skills. Finally, this enhancement contributes to developing a security-aware mindset by reinforcing the importance of input validation and controlled data handling. Validation rules were implemented to prevent invalid data from entering the system. 
 Below are links to my reflection and source code.
 
+https://github.com/devers234/CS499ePortfolio/tree/main/Daniel%20Evers%20Inventory%20app%20enhancments2
 
 	
 ## Database Enhancement
