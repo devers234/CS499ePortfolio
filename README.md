@@ -33,6 +33,8 @@ https://youtu.be/r_uqmAmkn2w
 
 https://github.com/devers234/CS499ePortfolio/blob/main/Daniel%20Evers%20milestone%202%20reflection.docx
 
+https://github.com/devers234/CS499ePortfolio/blob/main/Daniel%20Evers%20Inventory%20app%20with%20enhancments%20software%20design.zip
+
 
 ## Algorithms and Data Structures Enhancement
 ## Database Enhancement
