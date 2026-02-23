@@ -67,7 +67,7 @@ Sorting using ORDER BY ensures that the inventory is always alphabetized, meanin
 Below are links to my reflection and source code.
 
 https://github.com/devers234/CS499ePortfolio/tree/main/Daniel%20Evers%20Inventory%20app%20enhancments2
-
+https://github.com/devers234/CS499ePortfolio/blob/main/Daniel%20Evers%204-2%20reflection.docx
 	
 ## Database Enhancement
 
