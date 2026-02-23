@@ -1,0 +1,43 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:padding="20dp"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <EditText
+        android:id="@+id/editUpdateName"
+        android:hint="Item name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <EditText
+        android:id="@+id/editUpdateQty"
+        android:hint="Quantity"
+        android:inputType="number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"/>
+
+    <!-- NEW: Condition label -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Condition"
+        android:layout_marginTop="12dp" />
+
+    <!-- NEW: Condition dropdown -->
+    <Spinner
+        android:id="@+id/spinnerConditionUpdate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/condition_options" />
+
+    <!-- NEW: Willing to trade toggle -->
+    <Switch
+        android:id="@+id/switchTradeUpdate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Willing to Trade"
+        android:layout_marginTop="8dp" />
+
+</LinearLayout>
