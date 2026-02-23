@@ -80,4 +80,7 @@ This artifact was selected because it had good base code that I knew I could imp
 •	Used a free API to fetch prices for cards in inventory
 
 Two course outcomes I met was design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices while managing design tradeoffs and Demonstrate the ability to use well-founded and innovative techniques, skills, and tools to implement computing solutions that deliver value and meet industry-specific goals. I met the first outcome by designing and implementing an enhanced inventory management solution that goes beyond basic data storage. I expanded the database schema to include the pricing data and implemented an algorithmic SQL query to calculate the total price. I used this “SELECT SUM(quantity * price) FROM inventory.  I met the second outcome by integrating multiple tools. I used SQLite for structured data storage, SQL aggregation functions for analytics, and background processing to safely retrieve external pricing data from a public API. This combination reflects industry-standard practices such as asynchronous network calls, database normalization, and separation of concerns.
+
 Below are links to my source code and reflection.
+
+https://github.com/devers234/CS499ePortfolio/tree/main/Daniel%20Evers%20Inventory%20app.%20Module%204%20enhancemenetszip
