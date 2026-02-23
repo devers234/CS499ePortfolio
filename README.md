@@ -84,3 +84,4 @@ Two course outcomes I met was design and evaluate computing solutions that solve
 Below are links to my source code and reflection.
 
 https://github.com/devers234/CS499ePortfolio/tree/main/Daniel%20Evers%20Inventory%20app.%20Module%204%20enhancemenetszip
+https://github.com/devers234/CS499ePortfolio/blob/main/Daniel%20Evers%20milestone%204%20reflection.docx
