@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Daniel Evers Inventory app</string>
+
+        <string-array name="condition_options">
+            <item>NM</item>
+            <item>LP</item>
+            <item>MP</item>
+            <item>HP</item>
+            <item>DMG</item>
+        </string-array>
+
+    </resources>
