@@ -70,4 +70,14 @@ https://github.com/devers234/CS499ePortfolio/tree/main/Daniel%20Evers%20Inventor
 https://github.com/devers234/CS499ePortfolio/blob/main/Daniel%20Evers%204-2%20reflection.docx
 	
 ## Database Enhancement
+The artifact I selected for this milestone is an Android-based inventory app from the course CS360: Mobile Architecture and Design. This application allows users to create and manage their inventory of collectible cards like Magic the Gathering cards. Users can add items, remove items, specify quantities using a local SQLite database. The original version of the application supported basic inventory functionality like item names and quantities. This artifact was selected because it provides a strong foundation in software design and engineering principles like object-oriented design, database integration, input validation and user interface improvements. 
+This artifact was selected because it had good base code that I knew I could improve and enhance. The original version lacked depth in terms databases, only being a simple one. This first enhancement focused on expanding the application’s data model and improving the overall software design. These improvements were made,
+•	Added the FetchPriceTask.java class
+•	Added the ScryfallApiHelper.java class
+•	Configured both the classes above
+•	Added a “Price” column
+•	Added a query to calculate total value of cards in list
+•	Used a free API to fetch prices for cards in inventory
 
+Two course outcomes I met was design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices while managing design tradeoffs and Demonstrate the ability to use well-founded and innovative techniques, skills, and tools to implement computing solutions that deliver value and meet industry-specific goals. I met the first outcome by designing and implementing an enhanced inventory management solution that goes beyond basic data storage. I expanded the database schema to include the pricing data and implemented an algorithmic SQL query to calculate the total price. I used this “SELECT SUM(quantity * price) FROM inventory.  I met the second outcome by integrating multiple tools. I used SQLite for structured data storage, SQL aggregation functions for analytics, and background processing to safely retrieve external pricing data from a public API. This combination reflects industry-standard practices such as asynchronous network calls, database normalization, and separation of concerns.
+Below are links to my source code and reflection.
