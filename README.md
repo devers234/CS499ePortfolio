@@ -47,6 +47,8 @@ The artifact I selected for this milestone is an Android-based inventory app fro
 The enhancements made to this artifact demonstrates progress towards multiple Computer Science program outcomes. One is Algorithms and data structure. The updated design reflects improved object-oriented structure through the expanse of the Item model and the addition of two new methods. Refactoring the database logic and UI demonstrates effective separation of concerns and clean architecture. This project required me to identify weak areas in my code and then improving them. Things like data validation, consistency, and scalability were all areas I wanted to improve. I used SQLite schema, input validation, Modular java classes and improved UX/UI to enhance the application. 
 	Enhancing this artifact reinforced the importance of planning in software development. The original application functioned fine and was efficient. Enhancing it not only helps the user but the developers as well. One major challenge I encountered was fixing all the issues. When adding in methods or changing things, I had to go to different code and fix them there as well. This took a while to make sure the syntax was right. One spelling mistake cost me at least 30 minutes of troubleshooting. Through this process I learned that when changing code, it affects the whole application, not just one part. Overall, this enhancement taught me how to code review, improve code and implement features that align with software development standards. 
 
+Below are links to my source code and reflection.
+
 
 https://github.com/devers234/CS499ePortfolio/blob/main/Daniel%20Evers%20milestone%202%20reflection.docx
 
