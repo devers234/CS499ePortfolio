@@ -56,5 +56,17 @@ https://github.com/devers234/CS499ePortfolio/tree/main/Daniel%20Evers%20Inventor
 
 
 ## Algorithms and Data Structures Enhancement
+
+The artifact I selected for this milestone is an Android-based inventory app from the course CS360: Mobile Architecture and Design. This application allows users to create and manage their inventory of collectible cards like Magic: The Gathering cards. Users can add items, remove items, and specify quantities using a local SQLite database. The original version of the application supported basic inventory functionality like item names and quantities. This artifact was selected because it provides a strong foundation in software design and engineering principles like object-oriented design, database integration, input validation and user interface improvements. 
+	This artifact was selected because it had good base code that I knew I could improve and enhance. The original version lacked depth in terms of input validation and data richness. This second  enhancement focused on improving the application's performance, scalability, and data organization. These improvements were made, 
+•	Added a search bar at the top of the data table so users can find cards quickly
+•	Implemented sorting by using ORDER BY.
+•	Added an in-memory HashMap index(HashMap<String, Item>)
+Sorting using ORDER BY ensures that the inventory is always alphabetized, meaning if a user adds a card that begins with A, it will go to the top of the list. The HashMap index helps index the inventory by name. Lastly, I added a search by name bar for users to easily search for a card in their inventory. 
+	These enhancements demonstrate multiple computer science program outcomes. Through the implementation of my enhancements, I strengthened my ability to design and evaluate computing solutions that solve a given problem using algorithm principles. The database-level sorting combined with an in-memory HashMap for searching required evaluating performance, scalability, and memory usage to determine the most effective approach. This work also reflects progress towards using well-founded and innovative technique skills and tools in computing practices to implement computer solutions that deliver value and accomplish industry goals. Enhancing the application’s data model, validation logic, and internal data structures improves the maintainability of the project. A third outcome this enhancement meets is the process of documenting design decisions, implementing structured enhancements, and preparing the artifact for ePortfolio. This enhancement did not focus on collaborative development but it supports the progress by building on my skills. Finally, this enhancement contributes to developing a security-aware mindset by reinforcing the importance of input validation and controlled data handling. Validation rules were implemented to prevent invalid data from entering the system. 
+Below are links to my reflection and source code.
+
+
+	
 ## Database Enhancement
-## Artifacts and Source Code
+
